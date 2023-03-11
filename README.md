@@ -1,5 +1,4 @@
 # Everybot2023-Modified
-Modified 2023 Everybot Code
 
 This is a version of the 2023 118 Everybot Code that includes additional features to be updated throughout the 2023 season.
 
